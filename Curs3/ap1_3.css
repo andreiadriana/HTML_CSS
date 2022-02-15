@@ -1,0 +1,5 @@
+p,h1{color:red;}
+p:hover{color:blue}
+p::firts-line{color:aqua}
+p{font-size:24px;}
+h1{font-size:34px}
