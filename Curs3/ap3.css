@@ -1,0 +1,26 @@
+body{
+    color:pink;
+    font-size:10px;
+}
+
+
+div{
+    position:relative;
+    z-index:1000;
+    border:5px red solid;
+    margin:20px;
+    padding:15px 25px;
+    width:100%;
+    max-width:26%;
+    float:left;
+    color:blue;
+    text-align:center;
+    background-color: rgba(188, 135, 236, 0.3);
+    font: size 16px;
+}
+
+p{
+    font-size:2rem;
+
+
+}
